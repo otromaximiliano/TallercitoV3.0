@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Bob Esponja",
+		"age": "21",
+		"gender": "Esponja"
+	},
+	{
+		"name": "Patricio Estrella",
+		"age": "21",
+		"gender": "Estrella"
+	},
+	{
+		"name": "Calamardo ",
+		"age": "40",
+		"gender": "Male"
+	}
+]
